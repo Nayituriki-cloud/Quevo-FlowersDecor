@@ -1,0 +1,6 @@
+{
+  "name": "Quevo Flowers & Decor",
+  "description": "Luxury floral boutique and event decor. Romantic rose bouquets, wedding flowers, gifts, and same-day delivery with instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
